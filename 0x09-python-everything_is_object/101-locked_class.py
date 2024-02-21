@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""module locked"""
+"""module locked is documented
+"""
 
 
 class LockedClass:
