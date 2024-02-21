@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Locked Class
+""" class LockedClass 
 """
 
 class LockedClass:
