@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-"""module locked is documented
+""" Module LockedClass Locked Class
 """
 
 
 class LockedClass:
-	""" Class LockedClass"""
+	""" Class LockedClass to lock"""
+
     __slots__= ['first_name']
