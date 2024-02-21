@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """ Module LockedClass Locked Class
 """
-"""Hello Module"""
 
 
 class LockedClass:
