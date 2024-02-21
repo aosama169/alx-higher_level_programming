@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""module locked"""
+
 """ class LockedClass
 """
 
