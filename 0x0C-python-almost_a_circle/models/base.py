@@ -57,7 +57,7 @@ class Base:
         """Return deserialization of JSON string
 
         Args:
-            json_string (str): A JSON string representation of a list of dictionaries
+            json_string (str): JSON string represents of list of dictionaries
         Returns:
             If json_string is null or empty an empty list
         """
@@ -144,7 +144,7 @@ class Base:
         """Draw Rectangles and Squares using the turtle module.
 
         Args:
-            list_rectangles (list): A list of Rectangle objects to draw.
+            list_rectangles (list): list of Rectangle objects to draw.
             list_squares (list): A list of Square objects to draw.
         """
         turt = turtle.Turtle()
